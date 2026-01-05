@@ -1,5 +1,4 @@
-# DerivAI
-DerivAI: Learning Derivatives with AI Assistance
+# DerivAI: Learning Derivatives with AI Assistance
 =======
 # Study Support Chatbot (DerivAI)
 
