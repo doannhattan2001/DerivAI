@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DerivAI
 DerivAI: Learning Derivatives with AI Assistance
 =======
